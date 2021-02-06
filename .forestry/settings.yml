@@ -9,8 +9,7 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-  match: "**/*"
-  new_doc_ext: html,md
+  new_doc_ext: ''
 - type: jekyll-posts
   label: Posts
   create: all
