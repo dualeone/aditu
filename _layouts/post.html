@@ -42,9 +42,11 @@ layout: default
         <div class="post__content">
           {{ content }}
         </div>
-        
+		
+		<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>
+        --
         {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
-        
+        --
         <div class="post__share">
           <div class="share__head">
             <div class="share__title">Share this article</div>
