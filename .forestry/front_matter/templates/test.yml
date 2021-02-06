@@ -8,5 +8,3 @@ fields:
     required: false
   label: test
   description: test
-pages:
-- _posts/123.md
