@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test thử coi sao
+title: "Xin chào tất cả các bạn YÊU DẤU \U0001F60E\U0001F918"
 date: 2018-11-13T15:01:35.000+03:00
 image: "/images/01-1.jpg"
 tags: Lifestyle
@@ -38,7 +38,7 @@ The Force is strong with this one. I have you now. I find your lack of faith dis
 
 I need your help, Luke. She needs your help. I'm getting too old for this sort of thing. Escape is not his plan. I must face him, alone. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
 
-<p><iframe src="https://www.youtube.com/embed/hfsaDwY3ePE" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="[https://youtu.be/NDaItMJQA0k](https://youtu.be/NDaItMJQA0k "Vì sao nên coi phim Yamada")" frameborder="0" allowfullscreen></iframe></p>
 
 The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.
 
