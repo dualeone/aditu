@@ -3,7 +3,11 @@ layout: post
 title: Trưởng thành là sao?
 date: 2021-02-06T12:01:35.000+00:00
 image: "/images/01-1.jpg"
-tags: Lifestyle
+tags:
+- Lifestyle
+- Haynensharengay
+- KienThucNe
+- TamLyNe
 
 ---
 Đây là 1 bài viết mà bạn có thể vừa đọc lẫn vừa xem. Clip thì ở đây nè
@@ -130,9 +134,3 @@ Cuối cùng, người quyết định việc bạn có trưởng thành hay kh�
 Giống như ai cũng biết muốn có body 6 múi thì phải tập thể dục. Muốn giàu thì phải hăng say làm việc. Nhưng số người giàu và số người 6 múi nó ít hơn số người biết cách làm giàu và trở nên 6 múi lắm
 
 Nên coi clip xong đừng nói "anh Leo ơi sao em coi clip anh xong vẫn không trưởng thành" nhé.
-
-\#Haynensharengay #KienThucNe #TamLyNe
-
-The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.
-
-Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force. Your eyes can deceive you. Don’t trust them. What?! I don’t know what you’re talking about. I am a member of the Imperial Senate on a diplomatic
