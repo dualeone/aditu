@@ -55,7 +55,11 @@ Trưởng thành về thể chất là dễ thấy nhất, và cũng dễ đạt
 
 #### Tất cả **_những gì bạn cần làm, là không làm gì cả._** Thời gian sẽ làm cho bạn lớn lên, già đi và ngủm. Phẻ re. 
 
-Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà. Lớn lên mới biết mấy cô chú cũng đách biết gì hết.
+Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà. 
+
+_![Lớn lên mới biết mấy cô chú cũng đách biết gì hết](/images/a-young-man-with-his-hand-on-h.jpg)_
+
+_Lớn lên mới biết mấy cô chú cũng đách biết gì hết._
 
 Trưởng thành về tri thức là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc. Đừng lẫn lộn thành tích học tập với sự trưởng thành về tri thức. Một đứa trẻ có thể đoạt giải nhất lê quí đôn, toán quốc tế đứng hạng 3, nhưng nếu nó không áp dụng dc kiến thức đó vào thực tiễn mà chỉ đơn giản là làm tính như một cái pc, nó cũng vẫn chưa trưởng thành đâu. Vì trưởng thành về tri thức chỉ thực sự bắt đầu khi bạn tiếp thu tri thức vì bản thân muốn, chứ không phải vì ba mẹ bắt. Đó là lúc bạn bấm subscribe và donate cho anh Leo vì kiến thức ảnh đem lại . Do bạn muốn nghe ảnh nói
 
