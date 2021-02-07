@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "Xin chào tất cả các bạn YÊU DẤU \U0001F60E\U0001F918"
+title: Trưởng thành là sao?
 date: 2021-02-06T12:01:35.000+00:00
 image: "/images/01-1.jpg"
 tags: Lifestyle
 
 ---
-Oke để thử nha.
+Khi bạn 3,4 tuổi, đòi mẹ mua chiếc xe đồ chơi mà mẹ không cho, bạn có thể sẽ nằm lăn ra đất khóc lóc la làng la xóm. Người ta đi ngang qua có thể khó chịu, có thể ái ngại nhìn mẹ bạn, nhưng nói chung cũng không phiền lắm, vì bạn còn nhỏ, và bạn không phải con của họ.
 
-Font chữ này thua rồi, gì mà lớn nhỏ kì quá 
+#### Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào khóc khi má nói "không đc", thì lúc đó bạn sẽ nổi tiếng khắp trên mạng, vì người ta không ai bỏ qua cơ hội quay lại cảnh này đâu.
 
-### Nhưng hoá ra cũng ổn nè?
+_Lớn rồi không ai làm thế cả._
+
+Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn lớn lên, bạn phải học những qui tắc đó để ứng xử sao cho phù hợp, sao cho ông bà cha mẹ chúng ta không lắc đầu ngán ngẩm mà nói đi nói lại câu
+
+"Lớn rồi, làm sao coi cho đc đi con".
+
+#### Nhưng lớn rồi là thế nào?
+
+Khi nào thì đc coi là người lớn?
 
 Giờ để thử test 1 cái hình coi sao
 
