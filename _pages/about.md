@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Dualeone Team
 permalink: /about/
 image: '/images/60.jpg'
 ---
