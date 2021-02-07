@@ -1,24 +1,28 @@
 ---
 layout: post
-title:  The way I see it, every life is a pile of good things
-date:   2018-11-13 15:01:35 +0300
-image:  '/images/01-1.jpg'
-tags:   Lifestyle
+title: "Xin chào tất cả các bạn YÊU DẤU \U0001F60E\U0001F918"
+date: 2018-11-13T15:01:35.000+03:00
+image: "/images/01-1.jpg"
+tags: Lifestyle
+
 ---
-Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
+Oke để thử nha.
+
+Font chữ này thua rồi, gì mà lớn nhỏ kì quá she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
 ### I care. So, what do you think of her, Han?
+
 I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don't trust them.
 
 ![Enjoy the freedom]({{site.baseurl}}/images/1-4.jpg)
-*Enjoy the freedom*
+_Enjoy the freedom_
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
 Obi-Wan is here. The Force is with him. Partially, but it also obeys your commands. I call it luck. I'm trying not to, kid. Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.
 
 ![My best motorcycle]({{site.baseurl}}/images/1-1.jpg)
-*My best motorcycle*
+_My best motorcycle_
 
 1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
 2. Remember, a Jedi can feel the Force flowing through him.
@@ -34,7 +38,7 @@ The Force is strong with this one. I have you now. I find your lack of faith dis
 
 I need your help, Luke. She needs your help. I'm getting too old for this sort of thing. Escape is not his plan. I must face him, alone. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
 
-<p><iframe src="https://www.youtube.com/embed/hfsaDwY3ePE" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/NDaItMJQA0k" frameborder="0" allowfullscreen></iframe></p>
 
 The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.
 
