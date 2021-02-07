@@ -7,12 +7,12 @@ sections:
 - type: heading
   label: Head
 - type: directory
-  path: _Pages
-  label: Site
+  path: _pages
+  label: Pages
   create: all
   match: "**/*"
 - type: jekyll-pages
-  label: Pages
+  label: Site
   create: all
 - type: jekyll-posts
   label: Posts
