@@ -51,9 +51,9 @@ Nghĩa là họ đang mong bạn **trưởng thành** và **hành xử đúng** 
 
 Nhưng trước tiên phải nói về 3 loại kia đã.
 
-Trưởng thành về thể chất là dễ thấy nhất, và cũng dễ đạt đc nhất. 
+### Trưởng thành về thể chất là dễ thấy nhất, và cũng dễ đạt đc nhất. 
 
-#### Tất cả **_những gì bạn cần làm, là không làm gì cả._** Thời gian sẽ làm cho bạn lớn lên, già đi và ngủm. Phẻ re. 
+> Tất cả **_những gì bạn cần làm, là không làm gì cả._** Thời gian sẽ làm cho bạn lớn lên, già đi và ngủm. Phẻ re. 
 
 Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà. 
 
@@ -63,8 +63,9 @@ _Lớn lên mới biết mấy cô chú cũng đách biết gì hết._
 
 Trưởng thành về tri thức là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc. Đừng lẫn lộn thành tích học tập với sự trưởng thành về tri thức. Một đứa trẻ có thể đoạt giải nhất lê quí đôn, toán quốc tế đứng hạng 3, nhưng nếu nó không áp dụng dc kiến thức đó vào thực tiễn mà chỉ đơn giản là làm tính như một cái pc, nó cũng vẫn chưa trưởng thành đâu. Vì trưởng thành về tri thức chỉ thực sự bắt đầu khi bạn tiếp thu tri thức vì bản thân muốn, chứ không phải vì ba mẹ bắt. Đó là lúc bạn bấm subscribe và donate cho anh Leo vì kiến thức ảnh đem lại . Do bạn muốn nghe ảnh nói
 
-![My best motorcycle]({{site.baseurl}}/images/1-1.jpg)
-_My best motorcycle_
+Trưởng thành về mặt xã hội cũng là 1 loại trưởng thành quan trọng. Xã hội có rất nhiều qui tắc ứng xử, nhưng hầu hết đều là những qui tắc ẩn. Ví dụ gặp người lạ bạn nói gì, chủ đề nào không hời hợt quá nhưng cũng không bất lịch sự quá. Đây là loại trưởng thành mà nhiều người thường hay nói tới nhưng 0 diễn đạt gọit tên chính xác đc. Nhưng nó cực kì quan trọng. Vì nó gần như quyết định sự thành công của bạn. Cái này tuỳ thuộc vào iq, nhưng luyện tập đc. Bằng cách tiếp xúc thật nhiều người.
+
+Trưởng thành về mặt cảm xúc là quan trọng nhất luôn. Đó là khả năng kiểm soát cảm xúc, không bị ảnh hưởng bởi những tác động tiêu cực của xã hội. Đây là những người luôn là trụ cột tinh thần giúp người khác dựa vào.
 
 1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
 2. Remember, a Jedi can feel the Force flowing through him.
