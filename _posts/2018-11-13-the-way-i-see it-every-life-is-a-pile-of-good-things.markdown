@@ -8,7 +8,7 @@ tags: Lifestyle
 ---
 Khi bạn 3,4 tuổi, đòi mẹ mua chiếc xe đồ chơi mà mẹ không cho, bạn có thể sẽ nằm lăn ra đất khóc lóc la làng la xóm. Người ta đi ngang qua có thể khó chịu, có thể ái ngại nhìn mẹ bạn, nhưng nói chung cũng không phiền lắm, vì bạn còn nhỏ, và bạn không phải con của họ.
 
-Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào khóc khi má nói "không đc", thì lúc đó **bạn sẽ nổi tiếng khắp trên mạng,** vì người ta không ai bỏ qua cơ hội quay lại cảnh này đâu.
+Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào khóc khi má nói “không đc”, thì lúc đó **bạn sẽ nổi tiếng khắp trên mạng,** vì người ta không ai bỏ qua cơ hội quay lại cảnh này đâu.
 
 Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn lớn lên, bạn phải học những qui tắc đó để ứng xử sao cho phù hợp, sao cho ông bà cha mẹ chúng ta không lắc đầu ngán ngẩm mà nói đi nói lại câu
 
@@ -61,27 +61,71 @@ _![Lớn lên mới biết mấy cô chú cũng đách biết gì hết](/images
 
 _Lớn lên mới biết mấy cô chú cũng đách biết gì hết._
 
-Trưởng thành về tri thức là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc. Đừng lẫn lộn thành tích học tập với sự trưởng thành về tri thức. Một đứa trẻ có thể đoạt giải nhất lê quí đôn, toán quốc tế đứng hạng 3, nhưng nếu nó không áp dụng dc kiến thức đó vào thực tiễn mà chỉ đơn giản là làm tính như một cái pc, nó cũng vẫn chưa trưởng thành đâu. Vì trưởng thành về tri thức chỉ thực sự bắt đầu khi bạn tiếp thu tri thức vì bản thân muốn, chứ không phải vì ba mẹ bắt. Đó là lúc bạn bấm subscribe và donate cho anh Leo vì kiến thức ảnh đem lại . Do bạn muốn nghe ảnh nói
+### Kến đến là Trưởng thành về tri thức. Đó là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc. 
 
-Trưởng thành về mặt xã hội cũng là 1 loại trưởng thành quan trọng. Xã hội có rất nhiều qui tắc ứng xử, nhưng hầu hết đều là những qui tắc ẩn. Ví dụ gặp người lạ bạn nói gì, chủ đề nào không hời hợt quá nhưng cũng không bất lịch sự quá. Đây là loại trưởng thành mà nhiều người thường hay nói tới nhưng 0 diễn đạt gọit tên chính xác đc. Nhưng nó cực kì quan trọng. Vì nó gần như quyết định sự thành công của bạn. Cái này tuỳ thuộc vào iq, nhưng luyện tập đc. Bằng cách tiếp xúc thật nhiều người.
+Ở đây ta cẩn thận. 
 
-Trưởng thành về mặt cảm xúc là quan trọng nhất luôn. Đó là khả năng kiểm soát cảm xúc, không bị ảnh hưởng bởi những tác động tiêu cực của xã hội. Đây là những người luôn là trụ cột tinh thần giúp người khác dựa vào.
+> Đừng lẫn lộn thành tích học tập với sự trưởng thành về tri thức. 
 
-1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
-2. Remember, a Jedi can feel the Force flowing through him.
-3. I want to come with you to Alderaan. There's nothing for me here now. I want to learn the ways of the Force and be a Jedi, like my father before me.
+Một đứa trẻ có thể đoạt giải nhất Lê Quí Đôn, toán quốc tế đứng hạng 3, nhưng nếu nó **_không áp dụng dc kiến thức đó vào thực tiễn_** mà chỉ đơn giản là **_làm tính như một cái pc, nó cũng vẫn chưa trưởng thành đâu_**. 
 
-Hey, Luke! May the Force be with you. What?! Partially, but it also obeys your commands. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
+### Vì trưởng thành về tri thức chỉ thực sự bắt đầu khi bạn tiếp thu tri thức vì bản thân muốn, chứ không phải vì ba mẹ bắt. 
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+Đó là lúc bạn bấm subscribe và donate cho anh Leo vì kiến thức ảnh đem lại . Do bạn muốn nghe ảnh nói, chứ không phải vì bạn muốn khoe khoang với ai cả nhé
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
+Rồi đến Trưởng thành xã hội. 
 
-I need your help, Luke. She needs your help. I'm getting too old for this sort of thing. Escape is not his plan. I must face him, alone. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
+### Bạn trưởng thành xã hội, nghĩa là không cần ai nói cũng tự hiểu cách hành xử phù hợp xã hội đúng lúc đúng nơi
 
-<p><iframe src="https://www.youtube.com/embed/NDaItMJQA0k" frameborder="0" allowfullscreen></iframe></p>
+Vì xã hội có rất nhiều qui tắc ứng xử, nhưng hầu hết đều là những **_qui tắc ẩn_**. Gặp người lạ bạn nói gì, chủ đề nào không hời hợt quá nhưng cũng không bất lịch sự quá. Đây là loại trưởng thành mà nhiều người thường hay nói tới nhưng 0 diễn đạt gọi tên chính xác đc. Nhưng nó cực kì quan trọng. 
+
+Vì nó gần như quyết định sự thành công của bạn. 
+
+Cái này tuỳ thuộc vào EQ, nhưng luyện tập đc. Hãy tiếp xúc thật nhiều người, đi thật nhiều nơi, lắng nghe nhiều hơn mở miệng nói để chứng tỏ và khoe khoang. Học học nữa học mãi nhé.
+
+### Trưởng thành về mặt cảm xúc thì sao?
+
+> Đó là khả năng kiểm soát cảm xúc, không bị ảnh hưởng bởi những tác động tiêu cực của xã hội. Người trưởng thành cảm xúc luôn là trụ cột tinh thần giúp người khác dựa vào.
+
+####   
+Và cũng là loại trưởng thành bị coi nhẹ nhất trong xã hội VN. 
+
+Chúng ta quan tâm tới tài sản một ai đó. Quan tâm đến sắc đẹp của một minh tinh. Quan tâm đến bộ đồ của người đối diện, của cô bé đầu ngõ, chắc nó làm gái nên mới mặc đồ như vậy... 
+
+Nhưng cảm xúc của bản thân, MÙ TỊT!!
+
+Bạn có biết mình bị ADD hông? Bạn có biết vì sao mình đọc chữ không nổi không? Vì sao mình luôn chán nản không? Không. 
+
+![Thôi, dô là xong hết, dôoooo](/images/storyblocks-close-up-of-three-2.jpg)
+
+### Nhậu thôi.
+
+Và đó chính là sự tồi tệ của chúng ta....
+
+### Vậy làm sao để trưởng thành về cảm xúc?
+
+Hãy đọc các loại sách báo nghiên cứu về tâm lý, về xúc cảm. Hãy uốn lưỡi 7 lần trước khi nói, lộn ngược 7 cái trước khi comment chửi ai đó. Hãy subscribe donate kênh anh Leo.
+
+Với các em nhỏ theo dõi kênh anh Leo, hãy hiểu qui tắc này để trưởng thành hơn về mặt xã hội: 
+
+> Đừng bao giờ khoe kiến thức.
+
+Khoe tiền khoe bạc người ta có thể không ưa mình. Nhưng người ta sẽ ganh tị và giả bộ mê mình. Còn khoe kiến thức người ta rất ghét. Và khi mình khoe kiến thức với kẻ ngu mà nghĩ nó khôn, nó càng ghét mình hơn. Nếu mình khoe với kẻ ngu mà có cá quyền là mình còn chết nữa.
+
+Cách hay nhất để khoe kiến thức, đó là mở kênh youtube. Hoặc subscribe donate kênh anh Leo, xong ảnh có clip mới thì share, viết vài dòng nói hay lắm. 
+
+Đừng khoe mày vó biết này hông mày có biết kia hông. 
+
+> Khi nào người ta hỏi, hãy nói. Đừng nói khi người ta không hỏi
+
+  
+Cuối cùng, người quyết định việc bạn có trưởng thành hay không là chính bạn.
+
+Giống như ai cũng biết muốn có body 6 múi thì phải tập thể dục. Muốn giàu thì phải hăng say làm việc. Nhưng số người giàu và số người 6 múi nó ít hơn số người biết cách làm giàu và trở nên 6 múi lắm
+
+Nên coi clip xong đừng nói "anh Leo ơi sao em coi clip anh xong vẫn không trưởng thành" nhé.
+
+\#Haynensharengay #KienThucNe #TamLyNe
 
 The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.
 
