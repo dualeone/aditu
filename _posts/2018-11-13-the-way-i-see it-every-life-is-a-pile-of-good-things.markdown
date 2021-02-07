@@ -6,6 +6,13 @@ image: "/images/01-1.jpg"
 tags: Lifestyle
 
 ---
+Đây là 1 bài viết mà bạn có thể vừa đọc lẫn vừa xem. Clip thì ở đây nè
+
+<p><iframe src="https://www.youtube.com/embed/yUMHhNfX0Mc" frameborder="0" allowfullscreen></iframe></p>
+
+Còn bài đọc thì bắt đầu từ đây
+
+### Trưởng thành là sao?
 
 Khi bạn 3,4 tuổi, đòi mẹ mua chiếc xe đồ chơi mà mẹ không cho, bạn có thể sẽ nằm lăn ra đất khóc lóc la làng la xóm. Người ta đi ngang qua có thể khó chịu, có thể ái ngại nhìn mẹ bạn, nhưng nói chung cũng không phiền lắm, vì bạn còn nhỏ, và bạn không phải con của họ.
 
