@@ -16,11 +16,27 @@ Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn l
 
 "Lớn rồi, làm sao coi cho đc đi con".
 
-#### Nhưng lớn rồi là thế nào?
+### Nhưng lớn rồi là thế nào? Khi nào thì đc coi là người lớn?
 
-Khi nào thì đc coi là người lớn?
+Không ai có định nghĩa chính xác và giảng giải một cách đơn giản cho chúng ta đc. Ai cũng cho rằng, lớn rồi sẽ biết.
 
-Giờ để thử test 1 cái hình coi sao
+Nhưng bạn lớn rồi, bạn có tự nhiên hiểu biết về vũ trụ hông? Có tự nhiên biết lịch sử của cái toilet, của giấy chùi đít nó hấp dẫn tới cỡ nào không? Không! Và có rất nhiều người đầu 2 thứ tóc rồi, nhưng cư xử không khác gì một đứa con nít cả. Vậy họ có phải là người lớn không?
+
+Tui nghĩ, tự tìm hiểu để biết cũng tốt. Nhưng lâu lắm nha, với có khả năng hiểu bậy nữa.
+
+### Nên hôm nay tui sẽ giúp các bạn cắt ngắn thời gian
+
+Trước tiên, chúng ta cần hiểu rõ.
+
+Khi người ta nói "lớn rồi, làm sao coi cho đc đi con"
+
+Nghĩa là họ đang mong bạn trưởng thành và hành xử đúng với tác phong của một người trưởng thành tương tự.
+
+Nhưng trưởng thành là sao?
+
+Theo tâm lý học, trưởng thành là khả năng thích ứng được với môi trường xã hội, nhận thức được thời gian và địa điểm chính xác để có những cư xử đúng mực và biết được khi nào nên làm gì, tùy theo hoàn cảnh và phụ thuộc vào nền văn hóa xã hội mà ta đang sống.
+
+Định nghĩa này khá đầy đủ. Nhưng do nó rộng quá, nên nó chưa đủ.
 
 ![](/images/tet-nguyen-dan-la-gi-3.jpg)
 _Enjoy the freedom_
