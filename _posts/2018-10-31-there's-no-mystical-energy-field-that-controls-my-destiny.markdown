@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  There's no mystical energy field that controls my destiny
-date:   2018-10-31 15:01:35 +0300
-image:  '/images/11.jpg'
-tags:   Rest
+title: Bạn thật ra không ngu như bạn tưởng - Dyslexia nè
+date: 2018-10-31T15:01:35.000+03:00
+image: "/images/11.jpg"
+tags: Rest
+
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
