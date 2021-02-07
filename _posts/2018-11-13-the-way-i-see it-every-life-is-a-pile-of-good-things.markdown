@@ -2,7 +2,7 @@
 layout: post
 title: Trưởng thành là sao?
 date: 2021-02-06T12:01:35.000+00:00
-image: "/images/01-1.jpg"
+image: "/images/truongthanhlasao.jpg"
 tags:
 - Lifestyle
 - Haynensharengay
