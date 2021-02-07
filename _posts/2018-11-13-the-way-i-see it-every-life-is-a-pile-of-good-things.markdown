@@ -28,7 +28,7 @@ Tui nghĩ, tự tìm hiểu để biết cũng tốt. Nhưng lâu lắm nha, v�
 
 Trước tiên, chúng ta cần hiểu rõ. Khi người ta nói 
 
-> ### "Lớn rồi, làm sao coi cho đc đi con"
+> ### Lớn rồi, làm sao coi cho đc đi con
 
 Nghĩa là họ đang mong bạn **trưởng thành** và **hành xử đúng** với tác phong của một người **trưởng thành** tương tự.
 
@@ -39,9 +39,21 @@ Nghĩa là họ đang mong bạn **trưởng thành** và **hành xử đúng** 
   
 Định nghĩa này khá đầy đủ. Nhưng do nó rộng quá, nên nó chưa đủ.
 
-Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
+### Theo tui, có 4 loại trưởng thành
 
-Obi-Wan is here. The Force is with him. Partially, but it also obeys your commands. I call it luck. I'm trying not to, kid. Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.
+1. **Trưởng thành về thể chất**
+2. **Trưởng thành về tri thức**
+3. **Trưởng thành về xã hội**
+4. **Và trưởng thành về cảm xúc**
+
+  
+4 loại trưởng thành này cấu tạo nên chúng ta thành một cá thể riêng biệt, duy nhất. Và đây cũng là lí do vì sao chúng ta thấy rất nhiều ông cụ non, còn nhỏ nhưng suy nghĩ già dặn, và những ông bà già đầu 2 thứ tóc nhưng thật ra vẫn chỉ là những đứa trẻ lớn xác mà thôi. Và loại quan trọng nhất tạo nên khác biệt giữa chúng ta đó là trưởng thành về mặt cảm xúc.
+
+Nhưng trước tiên phải nói về 3 loại kia đã.
+
+Trưởng thành về thể chất là dễ thấy nhất, và cũng dễ đạt đc nhất. Tất cả những gì bạn cần làm, là không làm gì cả. Thời gian sẽ làm cho bạn lớn lên, già đi và ngủm. Phẻ re. Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà. Lớn lên mới biết mấy cô chú cũng đách biết gì hết.
+
+Trưởng thành về tri thức là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc. Đừng lẫn lộn thành tích học tập với sự trưởng thành về tri thức. Một đứa trẻ có thể đoạt giải nhất lê quí đôn, toán quốc tế đứng hạng 3, nhưng nếu nó không áp dụng dc kiến thức đó vào thực tiễn mà chỉ đơn giản là làm tính như một cái pc, nó cũng vẫn chưa trưởng thành đâu. Vì trưởng thành về tri thức chỉ thực sự bắt đầu khi bạn tiếp thu tri thức vì bản thân muốn, chứ không phải vì ba mẹ bắt. Đó là lúc bạn bấm subscribe và donate cho anh Leo vì kiến thức ảnh đem lại . Do bạn muốn nghe ảnh nói
 
 ![My best motorcycle]({{site.baseurl}}/images/1-1.jpg)
 _My best motorcycle_
