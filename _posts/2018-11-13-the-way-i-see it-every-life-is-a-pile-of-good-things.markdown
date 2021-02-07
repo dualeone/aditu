@@ -8,17 +8,15 @@ tags: Lifestyle
 ---
 Khi bạn 3,4 tuổi, đòi mẹ mua chiếc xe đồ chơi mà mẹ không cho, bạn có thể sẽ nằm lăn ra đất khóc lóc la làng la xóm. Người ta đi ngang qua có thể khó chịu, có thể ái ngại nhìn mẹ bạn, nhưng nói chung cũng không phiền lắm, vì bạn còn nhỏ, và bạn không phải con của họ.
 
-#### Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào khóc khi má nói "không đc", thì lúc đó bạn sẽ nổi tiếng khắp trên mạng, vì người ta không ai bỏ qua cơ hội quay lại cảnh này đâu.
-
-_Lớn rồi không ai làm thế cả._
+Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào khóc khi má nói "không đc", thì lúc đó **bạn sẽ nổi tiếng khắp trên mạng,** vì người ta không ai bỏ qua cơ hội quay lại cảnh này đâu.
 
 Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn lớn lên, bạn phải học những qui tắc đó để ứng xử sao cho phù hợp, sao cho ông bà cha mẹ chúng ta không lắc đầu ngán ngẩm mà nói đi nói lại câu
 
-"Lớn rồi, làm sao coi cho đc đi con".
+![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-grow-up-and-stop-behaving-like-a-child_b-zbx4rpcm.jpg)
 
 ### Nhưng lớn rồi là thế nào? Khi nào thì đc coi là người lớn?
 
-Không ai có định nghĩa chính xác và giảng giải một cách đơn giản cho chúng ta đc. Ai cũng cho rằng, lớn rồi sẽ biết.
+**_Không ai có định nghĩa chính xác_** và **_giảng giải một cách đơn giản_** cho chúng ta đc. Ai cũng cho rằng, **lớn rồi sẽ biết.**
 
 Nhưng bạn lớn rồi, bạn có tự nhiên hiểu biết về vũ trụ hông? Có tự nhiên biết lịch sử của cái toilet, của giấy chùi đít nó hấp dẫn tới cỡ nào không? Không! Và có rất nhiều người đầu 2 thứ tóc rồi, nhưng cư xử không khác gì một đứa con nít cả. Vậy họ có phải là người lớn không?
 
@@ -26,20 +24,18 @@ Tui nghĩ, tự tìm hiểu để biết cũng tốt. Nhưng lâu lắm nha, v�
 
 ### Nên hôm nay tui sẽ giúp các bạn cắt ngắn thời gian
 
-Trước tiên, chúng ta cần hiểu rõ.
+Trước tiên, chúng ta cần hiểu rõ. Khi người ta nói 
 
-Khi người ta nói "lớn rồi, làm sao coi cho đc đi con"
+> ### "Lớn rồi, làm sao coi cho đc đi con"
 
-Nghĩa là họ đang mong bạn trưởng thành và hành xử đúng với tác phong của một người trưởng thành tương tự.
+Nghĩa là họ đang mong bạn **trưởng thành** và **hành xử đúng** với tác phong của một người **trưởng thành** tương tự.
 
-Nhưng trưởng thành là sao?
+### Nhưng trưởng thành là sao?
 
-Theo tâm lý học, trưởng thành là khả năng thích ứng được với môi trường xã hội, nhận thức được thời gian và địa điểm chính xác để có những cư xử đúng mực và biết được khi nào nên làm gì, tùy theo hoàn cảnh và phụ thuộc vào nền văn hóa xã hội mà ta đang sống.
+> Theo tâm lý học, trưởng thành là khả năng thích ứng được với môi trường xã hội, nhận thức được thời gian và địa điểm chính xác để có những cư xử đúng mực và biết được khi nào nên làm gì, tùy theo hoàn cảnh và phụ thuộc vào nền văn hóa xã hội mà ta đang sống.
 
+  
 Định nghĩa này khá đầy đủ. Nhưng do nó rộng quá, nên nó chưa đủ.
-
-![](/images/tet-nguyen-dan-la-gi-3.jpg)
-_Enjoy the freedom_
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
