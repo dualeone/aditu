@@ -25,8 +25,6 @@ Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn l
 
 ![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg "Lớn rồi, làm sao coi cho đc đi con")
 
-_Lớn rồi, làm sao coi cho đc đi con_
-
 ### Nhưng lớn rồi là thế nào? Khi nào thì đc coi là người lớn?
 
 **_Không ai có định nghĩa chính xác_** và **_giảng giải một cách đơn giản_** cho chúng ta đc. Ai cũng cho rằng, **lớn rồi sẽ biết.**
