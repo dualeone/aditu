@@ -3,9 +3,12 @@ layout: post
 title: Bạn thật ra không ngu như bạn tưởng - Dyslexia nè
 date: 2018-10-31T15:01:35.000+03:00
 image: "/images/11.jpg"
-tags: Rest
+tags:
+- Rest
 
 ---
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/X0AoaItugvw](https://www.youtube.com/embed/X0AoaItugvw "https://www.youtube.com/embed/X0AoaItugvw")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Vì sao không nên nghe Happy New Year done
 
 Blockchain
@@ -21,7 +24,7 @@ Review phim The Green Book
 I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don't trust them.
 
 ![test coi sao](/images/onepunchman.png)
- _Test coi sao_
+_Test coi sao_
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
