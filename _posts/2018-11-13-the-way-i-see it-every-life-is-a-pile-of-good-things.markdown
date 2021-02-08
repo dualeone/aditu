@@ -23,7 +23,7 @@ Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào 
 
 Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn lớn lên, bạn phải học những qui tắc đó để ứng xử sao cho phù hợp, sao cho ông bà cha mẹ chúng ta không lắc đầu ngán ngẩm mà nói đi nói lại câu
 
-![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg)
+![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg "Lớn rồi, làm sao coi cho đc đi con")
 
 _Lớn rồi, làm sao coi cho đc đi con_
 
