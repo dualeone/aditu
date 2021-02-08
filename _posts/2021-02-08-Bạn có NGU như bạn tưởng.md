@@ -3,7 +3,7 @@
 ---
 Bạn có thể vừa đọc bài viết vừa xem clip nhé. Mình để ngay đây luôn nè.
 
-<p><iframe src="[https://www.youtube.com/embed/X0AoaItugvw](https://www.youtube.com/embed/X0AoaItugvw "https://www.youtube.com/embed/X0AoaItugvw")"" frameborder="0" allowfullscreen></iframe></p>
+    <p><iframe src="https://www.youtube.com/embed/X0AoaItugvw"" frameborder="0" allowfullscreen></iframe></p>
 
 ### Bạn không ngu như bạn tưởng
 
@@ -30,7 +30,7 @@ _Con người có 8 loại thông minh khác nhau:_
 5. **Thông minh vận động**
 6. **Thông minh giao tiếp**
 7. **Thông minh thiên nhiên**
-8. **Thông minh nội tâm.** 
+8. **Thông minh nội tâm.**
 
 Một người bình thường sẽ có ít nhất sự pha trộn độc đáo giữa hai và nhiều hơn nữa các loại thông minh này.
 
@@ -68,7 +68,7 @@ Người bị dyscalculia thì không xem đc đồng hồ kim, không tính nh�
 
 Có 15% trẻ em trên toàn thế giới bị dyslexia. 5-10% bị khó làm toán. 20% bị khó viết. 11% bị ADHD , tăng động (coi lại clip Tăng động và sạch sẽ có thể là bệnh đi sẽ biết ADHD là gì) Toàn những bệnh làm cho trẻ em không học hành đc như bình thường.
 
- Nhưng ở VN, nhiều trường học có tỷ lệ học sinh giỏi trên 90%. Thậm chí, số lượng học sinh giỏi và khá đạt gần như tuyệt đối.
+Nhưng ở VN, nhiều trường học có tỷ lệ học sinh giỏi trên 90%. Thậm chí, số lượng học sinh giỏi và khá đạt gần như tuyệt đối.
 
 Tui có thằng bạn, 36 tuổi. 1 tháng trước nó nói mấy status nhiều chữ của a e đọc không nổi, mệt lắm, nên tui nghi nghi, hỏi thử hoá ra nó bị dyslexia. Gần nửa đời người rồi nó mới biết nó bị bệnh. Nhưng cũng hay ở chỗ, bị dyslexia, nhưng vẫn là giam1 đốc cty xây dựng. Chả có gì liên quan thông mình cả. Thấy không?
 
