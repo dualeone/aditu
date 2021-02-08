@@ -23,7 +23,9 @@ Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào 
 
 Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn lớn lên, bạn phải học những qui tắc đó để ứng xử sao cho phù hợp, sao cho ông bà cha mẹ chúng ta không lắc đầu ngán ngẩm mà nói đi nói lại câu
 
-![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg "Lớn rồi, làm sao coi cho đc đi con")_Lớn rồi, làm sao coi cho đc đi con_
+![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg "Lớn rồi, làm sao coi cho đc đi con")
+
+_Lớn rồi, làm sao coi cho đc đi con_
 
 ### Nhưng lớn rồi là thế nào? Khi nào thì đc coi là người lớn?
 
@@ -64,9 +66,9 @@ Nhưng trước tiên phải nói về 3 loại kia đã.
 
 Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà.
 
-_![Lớn lên mới biết mấy cô chú cũng đách biết gì hết](/images/a-young-man-with-his-hand-on-h.jpg)_
+_![Lớn lên mới biết mấy cô chú cũng đách biết gì hết.](/images/a-young-man-with-his-hand-on-h.jpg)_
 
-_Lớn lên mới biết mấy cô chú cũng đách biết gì hết._
+Lớn lên mới biết mấy cô chú cũng đách biết gì hết.
 
 ### Kến đến là Trưởng thành về tri thức. Đó là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc.
 
