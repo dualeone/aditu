@@ -68,8 +68,8 @@ Người bị **Dysgraphia** thì chữ rất xấu, lúc sát lúc thưa, lúc 
 
 Người bị **Dyscalculia** thì không xem đc đồng hồ kim, không tính nhẩm đc, không ước lượng đc số lượng, không tập trung được khi phải làm việc có tính chất logic.
 
-Có 15% trẻ em trên toàn thế giới bị **Dyslexia**. 5-10% bị khó làm toán. 20% bị khó viết. 11% bị ADHD , tăng động (coi lại clip Tăng động và sạch sẽ có thể là bệnh đi sẽ biết ADHD là gì [tại đây](https://www.youtube.com/watch?v=lUFVmlZC6oc)) Toàn những bệnh làm cho trẻ em không học hành đc như bệnh thường.
-<a href="https://nocodebuilding.com" target="_blank"> nocodebuilding.com</a>
+Có 15% trẻ em trên toàn thế giới bị **Dyslexia**. 5-10% bị khó làm toán. 20% bị khó viết. 11% bị ADHD , tăng động (coi lại clip Tăng động và sạch sẽ có thể là bệnh đi sẽ biết ADHD là gì <a href="https://www.youtube.com/watch?v=lUFVmlZC6oc" target="_blank"> tại đây</a>) Toàn những bệnh làm cho trẻ em không học hành đc như bệnh thường.
+
 Nhưng ở VN, nhiều trường học có tỷ lệ học sinh giỏi trên 90%. Thậm chí, số lượng học sinh giỏi và khá đạt gần như tuyệt đối.
 
 Tui có thằng bạn, 36 tuổi. 1 tháng trước nó nói mấy status nhiều chữ của a e đọc không nổi, mệt lắm, nên tui nghi nghi, hỏi thử hoá ra nó bị dyslexia. Gần nửa đời người rồi nó mới biết nó bị bệnh. Nhưng cũng hay ở chỗ, bị dyslexia, nhưng vẫn là giám  đốc cty xây dựng. Chả có gì liên quan thông mình cả. Thấy không?
