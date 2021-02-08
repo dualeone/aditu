@@ -40,7 +40,7 @@ Một nền giáo dục phát triển hợp lí, đó là một nền giáo dụ
 
 Nền giáo dục Việt Nam của chúng ta chỉ tập trung vào 2 loại: ngôn ngữ và logic, thể hiện ở hệ số 2 môn văn, toán, anh văn và Hết. Ai giỏi hát, giỏi vẻ, giỏi đá banh, đánh lộn mà xui xẻo lại dở văn toán đều đc phê vào sổ liên lạc là học kém, lo ra, hạnh kiểm yếu vì chỉ thích hái hoa bắt bướm chạy nhảy vui chơi hơn. Và những con cá suốt đời nghỉ mình là bỏ đi vì không leo cây được như lũ khỉ.
 
-Cái này tui có nói tới trong clip "Làm sao thoát khỏi cảm giác trống rỗng". Một phần là do các bạn không biết bản thân giỏi gì nên coi clip đó. Rất hay. bạn muốn xem thì <a href="https://www.youtube.com/watch?v=gA3NnZzS4cY" target="_blank"> bấm vào đây </a>. Coi xong nhớ bấm subscribe và donate cho những món ăn tinh thần tuyệt vời của Dưa leo nhé
+Cái này tui có nói tới trong clip "Làm sao thoát khỏi cảm giác trống rỗng". Một phần là do các bạn không biết bản thân giỏi gì nên coi clip đó. Rất hay. bạn muốn xem thì <a href="https://youtu.be/gA3NnZzS4cY?t=54" target="_blank"> bấm vào đây </a>. Coi xong nhớ bấm subscribe và donate cho những món ăn tinh thần tuyệt vời của Dưa leo nhé
 
 3 căn bệnh Dyslexia - Dysgraphia -Dyscalculia đáng sợ ở chỗ là nó đánh thẳng vào môn toán và môn văn. Khó đọc, khó viết, khó làm toán. Trời ơi, thúi hẻo chắc luôn!!! Em học hành cái kiểu gì mà có một đoạn văn đơn giản đọc quài không xong? Kêu em chép bài từ sách bảng mà em đứng cả nửa buổi, giỡn mặt tôi đó hả? 2 + 2 bằng mấy? Về kêu phụ huynh lên đây.
 
