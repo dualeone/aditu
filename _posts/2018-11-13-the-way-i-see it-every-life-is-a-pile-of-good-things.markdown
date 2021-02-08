@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trưởng thành là sao?
-date: 2021-02-06T12:01:35.000+00:00
+date: 2021-02-07 12:01:35 +0000
 image: "/images/truongthanhlasao.jpg"
 tags:
 - Haynensharengay
