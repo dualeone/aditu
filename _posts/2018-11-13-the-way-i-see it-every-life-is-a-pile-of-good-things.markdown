@@ -105,6 +105,7 @@ Nhưng cảm xúc của bản thân, MÙ TỊT!!
 Bạn có biết mình bị ADD hông? Bạn có biết vì sao mình đọc chữ không nổi không? Vì sao mình luôn chán nản không? Không.
 
 ![Thôi, dô là xong hết, dôoooo](/images/storyblocks-close-up-of-three-2.jpg)
+_Thôi, dô là xong hết, dôoooo_
 
 ### Nhậu thôi.
 
