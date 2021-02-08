@@ -3,7 +3,7 @@
 ---
 Bạn có thể vừa đọc bài viết vừa xem clip nhé. Mình để ngay đây luôn nè.
 
-<p><iframe src="[https://www.youtube.com/embed/yUMHhNfX0Mc](https://www.youtube.com/embed/yUMHhNfX0Mc "https://www.youtube.com/embed/yUMHhNfX0Mc")" frameborder="0" allowfullscreen></iframe></p>
+`<p><iframe width="560" height="315" src="`[`https://www.youtube.com/embed/X0AoaItugvw`](https://www.youtube.com/embed/X0AoaItugvw "https://www.youtube.com/embed/X0AoaItugvw")`" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`
 
 ### Bạn không ngu như bạn tưởng
 
@@ -23,12 +23,14 @@ Bình tĩnh nghe anh giải thích.
 
 _Con người có 8 loại thông minh khác nhau:_
 
+![](/images/8-loai-thong-minh.jpg)
+
 1. **Thông minh ngôn ngữ**
 2. **Thông minh logic**
 3. **Thông minh không gian**
 4. **Thông minh âm nhạc**
 5. **Thông minh vận động**
-6. **Thông minh giao tiếp**
+6. **Thông minh giao tiếp (tương tác cá nhân)**
 7. **Thông minh thiên nhiên**
 8. **Thông minh nội tâm.**
 
@@ -70,7 +72,7 @@ Có 15% trẻ em trên toàn thế giới bị dyslexia. 5-10% bị khó làm to
 
 Nhưng ở VN, nhiều trường học có tỷ lệ học sinh giỏi trên 90%. Thậm chí, số lượng học sinh giỏi và khá đạt gần như tuyệt đối.
 
-Tui có thằng bạn, 36 tuổi. 1 tháng trước nó nói mấy status nhiều chữ của a e đọc không nổi, mệt lắm, nên tui nghi nghi, hỏi thử hoá ra nó bị dyslexia. Gần nửa đời người rồi nó mới biết nó bị bệnh. Nhưng cũng hay ở chỗ, bị dyslexia, nhưng vẫn là giam1 đốc cty xây dựng. Chả có gì liên quan thông mình cả. Thấy không?
+Tui có thằng bạn, 36 tuổi. 1 tháng trước nó nói mấy status nhiều chữ của a e đọc không nổi, mệt lắm, nên tui nghi nghi, hỏi thử hoá ra nó bị dyslexia. Gần nửa đời người rồi nó mới biết nó bị bệnh. Nhưng cũng hay ở chỗ, bị dyslexia, nhưng vẫn là giám  đốc cty xây dựng. Chả có gì liên quan thông mình cả. Thấy không?
 
 Nhưng bao nhiêu người may mắn như vậy? Bai nhiêu người có 1 ngời bạn giỏi như anh Dưa Leo để giúp nó hiểu ra căn bệnh của nó?
 
