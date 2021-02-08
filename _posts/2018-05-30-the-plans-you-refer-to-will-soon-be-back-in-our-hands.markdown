@@ -1,24 +1,25 @@
 ---
 layout: post
-title:  The plans you refer to will soon be back in our hands
-date:   2018-05-30 18:05:55 +0300
-image:  '/images/12.jpg'
-tags:   Lifestyle
+title: The plans you refer to will soon be back in our hands
+date: 2018-05-30T18:05:55.000+03:00
+image: "/images/12.jpg"
+tags: Lifestyle
+
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
 ### I care. So, what do you think of her, Han?
+
 I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don't trust them.
 
 ![The best day in my life]({{site.baseurl}}/images/34.jpg)
-*The best day in my life*
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
 Obi-Wan is here. The Force is with him. Partially, but it also obeys your commands. I call it luck. I'm trying not to, kid. Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.
 
 ![New soloist]({{site.baseurl}}/images/35.jpg)
-*New soloist*
+_New soloist_
 
 1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
 2. Remember, a Jedi can feel the Force flowing through him.
