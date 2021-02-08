@@ -52,11 +52,13 @@ Nguyên nhân khác có thể là do tai nạn ảnh hưởng tới não, phần
 
 Nhưng không có nguyên nhân nào liên quan tới IQ.
 
-Các bạn có biết , Benjamin Franklin, mặt ổng trên tiền đô á. Ổng bị khó làm toán, mà ổng phát minh ra cột thu lôi.
+Các bạn có biết , **_Benjamin Franklin_**, mặt ổng trên tiền đô á. Ổng bị khó làm toán, mà ổng phát minh ra cột thu lôi.
 
 ![](/images/benjamin.jpg)
 
-Agatha Christie, bả bị dysgraphia. Viết không nổi, nhưng vẫn trở thành nhà văn trinh thám nổi tiếng toàn cầu
+**_Agatha Christie_** , bà người Anh này bị **Dysgraphia**. Viết không nổi, nhưng vẫn trở thành nhà văn trinh thám nổi tiếng toàn cầu.
+
+![](https://s3.amazonaws.com/photo.goodreads.com/misc/1442254182-1442254182_goodreads_misc.jpg)
 
 Đó là kết quả của những nền giáo dục nhân bản, hiểu học sinh của mình bị gì để giúp đỡ nó phát triển.
 
@@ -72,11 +74,11 @@ Có 15% trẻ em trên toàn thế giới bị **Dyslexia**. 5-10% bị khó là
 
 Nhưng ở VN, nhiều trường học có tỷ lệ học sinh giỏi trên 90%. Thậm chí, số lượng học sinh giỏi và khá đạt gần như tuyệt đối.
 
-Tui có thằng bạn, 36 tuổi. 1 tháng trước nó nói mấy status nhiều chữ của a e đọc không nổi, mệt lắm, nên tui nghi nghi, hỏi thử hoá ra nó bị dyslexia. Gần nửa đời người rồi nó mới biết nó bị bệnh. Nhưng cũng hay ở chỗ, bị dyslexia, nhưng vẫn là giám  đốc cty xây dựng. Chả có gì liên quan thông mình cả. Thấy không?
+Tui có thằng bạn, 36 tuổi. 1 tháng trước nó nói mấy status nhiều chữ của a e đọc không nổi, mệt lắm, nên tui nghi nghi, hỏi thử hoá ra nó bị **Dyslexia**. Gần nửa đời người rồi nó mới biết nó bị bệnh. Nhưng cũng hay ở chỗ, bị dyslexia, nhưng vẫn là giám  đốc cty xây dựng. Chả có gì liên quan thông mình cả. Thấy không?
 
 Nhưng bao nhiêu người may mắn như vậy? Bai nhiêu người có 1 ngời bạn giỏi như anh Dưa Leo để giúp nó hiểu ra căn bệnh của nó?
 
-Tui đã thử tìm kiếm dyslexia là gì, khó đọc là gì trên youtube, và các bạn biết không, những kết quả nhận đc vô cùng thảm thương nghèo nàn. Hầu như 0 có cái clip nào của VN nói về những chứng bệnh này hết. Ngay cả 1 clip của TED , 1 chương trình có thể nói là khá nổi tiếng ở VN, dù đã đc vietsub, nhưng chỉ có 154 views trong ba năm. Còn clip SẶC CƯỜI Người Tây Đọc Câu Cực Khó Việt Nam đc 877 ngàn views.
+Tui đã thử tìm kiếm **Dyslexia** là gì, khó đọc là gì trên youtube, và các bạn biết không, những kết quả nhận đc vô cùng thảm thương nghèo nàn. Hầu như không có cái clip nào của Việt Nam nói về những chứng bệnh này hết. Ngay cả 1 clip của TED , một chương trình có thể nói là khá nổi tiếng ở Việt Nam, dù đã được vietsub, nhưng chỉ có 154 views trong ba năm. Còn clip "SẶC CƯỜI Người Tây Đọc Câu Cực Khó Việt Nam" được tới 877.000 views.
 
 Có lẽ là sau clip này, sẽ xuất hiện nhiều đứa trẻ may mắn như vậy. Vì cha mẹ nó biết rằng con mình không ngu, không lì. Chẳng qua là nó bị bệnh. Không phải cứ đánh nó là nó sẽ thông minh ra. Chửi nó nó sẽ làm toán giỏi. Mà giải pháp là phải đi bác sĩ, tìm cách trị bệnh cho nó.
 
