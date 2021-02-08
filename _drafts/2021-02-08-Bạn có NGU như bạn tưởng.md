@@ -3,7 +3,7 @@
 ---
 Bạn có thể vừa đọc bài viết vừa xem clip nhé. Mình để ngay đây luôn nè.
 
-`<p><iframe width="560" height="315" src="`[`https://www.youtube.com/embed/X0AoaItugvw`](https://www.youtube.com/embed/X0AoaItugvw "https://www.youtube.com/embed/X0AoaItugvw")`" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`
+<p><iframe src="https://www.youtube.com/embed/X0AoaItugvw" frameborder="0" allowfullscreen></iframe></p>
 
 ### Bạn không ngu như bạn tưởng
 
