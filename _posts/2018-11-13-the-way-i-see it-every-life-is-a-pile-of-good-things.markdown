@@ -66,7 +66,6 @@ Nhưng trước tiên phải nói về 3 loại kia đã.
 Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà.
 
 _![Lớn lên mới biết mấy cô chú cũng đách biết gì hết.](/images/a-young-man-with-his-hand-on-h.jpg "Lớn lên mới biết mấy cô chú cũng đách biết gì hết.")_
-
 _Lớn lên mới biết mấy cô chú cũng đách biết gì hết._
 
 ### Kến đến là Trưởng thành về tri thức. Đó là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc.
