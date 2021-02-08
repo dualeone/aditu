@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trưởng thành là sao?
-date: 2021-02-06T12:01:35.000+00:00
+date: 2021-02-07 12:01:35 +0000
 image: "/images/truongthanhlasao.jpg"
 tags:
 - Haynensharengay
@@ -23,7 +23,8 @@ Nhưng nếu 15 16 tuổi rồi mà vẫn cái kiểu nằm lăn ra đất gào 
 
 Xã hội luôn tồn tại những giới hạn, những qui tắc. Khi bạn lớn lên, bạn phải học những qui tắc đó để ứng xử sao cho phù hợp, sao cho ông bà cha mẹ chúng ta không lắc đầu ngán ngẩm mà nói đi nói lại câu
 
-![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg "Lớn rồi, làm sao coi cho đc đi con")_Lớn rồi, làm sao coi cho đc đi con_
+![Lớn rồi, làm sao coi cho đc đi con](/images/storyblocks-when-she-finally-g.jpg "Lớn rồi, làm sao coi cho đc đi con")
+_Lớn rồi, làm sao coi cho đc đi con_
 
 ### Nhưng lớn rồi là thế nào? Khi nào thì đc coi là người lớn?
 
@@ -64,8 +65,7 @@ Nhưng trước tiên phải nói về 3 loại kia đã.
 
 Nhiều người lầm tưởng nhiều tuổi với người lớn, với trưởng thành á bạn. Hồi nhỏ mình cũng vậy mà. Thấy mấy cô mấy chú lớn lớn là làm gì cũng hỏi ý mấy cô chú, xong thấy ok rồi mới làm, vì người lớn cho phép mà, người lớn biết mà.
 
-_![Lớn lên mới biết mấy cô chú cũng đách biết gì hết](/images/a-young-man-with-his-hand-on-h.jpg)_
-
+![Lớn lên mới biết mấy cô chú cũng đách biết gì hết.](/images/a-young-man-with-his-hand-on-h.jpg "Lớn lên mới biết mấy cô chú cũng đách biết gì hết.")
 _Lớn lên mới biết mấy cô chú cũng đách biết gì hết._
 
 ### Kến đến là Trưởng thành về tri thức. Đó là khả năng hiểu và sử dụng tri thức mà chúng ta tiếp thu đc.
@@ -105,6 +105,7 @@ Nhưng cảm xúc của bản thân, MÙ TỊT!!
 Bạn có biết mình bị ADD hông? Bạn có biết vì sao mình đọc chữ không nổi không? Vì sao mình luôn chán nản không? Không.
 
 ![Thôi, dô là xong hết, dôoooo](/images/storyblocks-close-up-of-three-2.jpg)
+_Thôi, dô là xong hết, dôoooo_
 
 ### Nhậu thôi.
 

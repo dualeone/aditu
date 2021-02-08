@@ -12,9 +12,7 @@ Still, she's got a lot of spirit. I don't know, what do you think? Hokey religio
 
 I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don't trust them.
 
-![abc](/images/60.jpg)_abc_
-
-![The best day in my life]({{site.baseurl}}/images/34.jpg)
+![]({{site.baseurl}}/images/34.jpg)
 _The best day in my life_
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
