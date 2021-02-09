@@ -3,29 +3,31 @@
 ---
 <p><iframe src="https://www.youtube.com/embed/HQKTYUrfti4" frameborder="0" allowfullscreen></iframe></p>
 
-# Những cách chúng ta tự đánh giá cao bản thân hơn thực tế
+## Những cách chúng ta tự đánh giá cao bản thân hơn thực tế
 
-Bạn đã bao giờ ngồi kế 1 đứa hôi nách? Bạn có bao giờ tự hỏi ủa sao hôi dữ vậy mà nó không biết, bộ không ai nói cho nó nghe à? Chẳng lẽ nó không thấy không ai muốn ngồi kế nó, cứ ngồi xíu là người ta đứng dậy đổi chỗ? Tại sao người ta mới tới gần là biết nó hôi nách rồi, mà nó sống cả đời không hề nhận ra đc điều giản dị đó?
+Bạn đã bao giờ ngồi kế 1 đứa hôi nách? Bạn có bao giờ tự hỏi ủa sao hôi dữ vậy mà nó không biết, không có ai nói cho nó nghe sao? Chẳng lẽ nó không tự cảm thấy không ai muốn ngồi kế nó, cứ ngồi xíu là người ta đứng dậy đổi chỗ? Tại sao người ta mới tới gần là biết nó hôi nách rồi, mà nó sống cả đời không hề nhận ra đc điều "giản dị" đó?
 
-Theo các nghiên cứu khoa học, thật ra, chúng ta chính là thằng hôi nách đó. Nói theo nghĩa bóng là vậy. Còn nghĩa đen, nghĩa là chúng ta 0 biết mình dở cái gì, nhưng lại luôn có khuynh hướng ph1ong đại những cái tốt dẹp của mình lên. Và đó chính là chủ đề của clip hôm nay. Bạn luôn đánh giá coa bạn hơn bạn nghĩ.
+Theo các nghiên cứu khoa học, thật ra, chúng ta chính là thằng hôi nách đó. Nói theo nghĩa bóng là vậy. Còn nghĩa đen, nghĩa là chúng ta không biết mình dở cái gì, nhưng lại luôn có khuynh hướng phóng đại những cái tốt dẹp của mình lên. Và đó chính là chủ đề của clip và bài viết hôm nay. Bạn luôn thực sự đánh giá cao bản thân của bạn hơn bạn nghĩ.
 
-1\. Bạn luôn nghĩ bạn là người tốt hơn thực tế
+### 1. Bạn luôn nghĩ bạn là người tốt hơn thực tế
 
-Tưởng tượng nếu ngày mai đột nhiên có người cần bạn giúp đỡ, ví dụ như 1 người đồng nghiệp bị cháy nhà, mất hết tiền bạc, người trong công ty cùng nhau quyên góp giúp ảnh sống sót. Trong tình huống giả tưởng này, bạn sẽ đóng góp bao nhiêu?
+Tưởng tượng nếu ngày mai đột nhiên có người cần bạn giúp đỡ, ví dụ như một người đồng nghiệp bị cháy nhà, mất hết tiền bạc, người trong công ty cùng nhau quyên góp giúp người đó sống sót. Trong tình huống giả tưởng này, bạn sẽ đóng góp bao nhiêu?
 
-Bây giờ chia đôi số đó đi. Đó là sồ tiền thực tế bạn sẽ bỏ ra khi chuyện giả tưởng kia đột nhiên thành hiện thực.
+Bây giờ chia đôi số đó đi. Đó là số tiền thực tế bạn sẽ bỏ ra khi chuyện giả tưởng kia đột nhiên thành hiện thực.
 
-Năm 2001, David Dunning, 1 giáo sư tâm lý học ở đại học Cornell đã thực hiện 1 chuỗi các thực nghiệm về cách người ta tự đánh giá bản thân và đánh giá người khác. Ở thí nghiệm đầu tiên, 250 sinh viên đc hỏi là em có tính mua hoa thuỷ tiên ủng hộ Hiệp hội chống ung thư Hoa Kỳ hông? 80% trả lời đồng thanh vang trời "dạ có!!!!!!!!". Các nhà khoa học hài lòng, con người tốt quá mà. Xong người ta hỏi tiếp “theo mấy em thì bao nhiêu người sẽ mua hoa ủng hộ?” Mấy em sinh viên nhăn trán suy nghĩ rồi nói, chắc cỡ 50 mấy% à mấy thầy ơi, tụi nó không có tốt “như em đâu” nháy nháy mắt, khúc như e là phải tự hiểu nha.
+Năm 2001, David Dunning, một giáo sư tâm lý học ở đại học Cornell đã thực hiện một chuỗi các thực nghiệm về cách người ta tự đánh giá bản thân và đánh giá người khác. Ở thí nghiệm đầu tiên, 250 sinh viên đc hỏi là em có tính mua hoa thuỷ tiên ủng hộ Hiệp hội chống ung thư Hoa Kỳ hông? 80% trả lời đồng thanh vang trời "dạ có!!!!!!!!". Các nhà khoa học hài lòng, con người tốt quá mà. Xong người ta hỏi tiếp “theo mấy em thì bao nhiêu người sẽ mua hoa ủng hộ?” Mấy em sinh viên nhăn trán suy nghĩ rồi nói: "Chắc cỡ 50 mấy phần trăm à mấy thầy ơi!, tụi nó không có tốt “như em đâu” nháy nháy mắt, khúc như em là phải tự hiểu nha.
 
 5 tuần sau, Ngày ủng hộ hiệp hội chống ung thư đến và đi. Người ta thống kê, chỉ có 43% sinh viên đã mua hoa.
 
 Nghĩa là sao? Là con người luôn đánh giá mình tốt hơn xã hội. 80% lận mà. Nhưng lại khá đúng khi đánh giá về cái sự tốt của người khác. 50 mấy phần trăm à, két quả có 43% mua. Thần kì chưa!
 
-Thí nghiệp khác. 38 em sinh viên tham gia thí nghiệm đc trả 5 đô cho việc tham gia. Sau đó, người ta hỏi mấy ẻm “nếu mấy em donate tiền này cho từ thiện, mấy em sẽ cho nhiêu? người khác sẽ cho nhiêu” Sinh viên hồ hởi “e cho 2 đồng rưỡi luôn, tiền này dù sao cũng free mà, e rất thích đc làm từ thiện á mấy thầy ơi. Nhưng mà tụi kia thì e 0 nghĩ nó cho nhiều vậy đâu, cao lắm chắc 1 đồng 8 thôi à”. Sau đó, người ta đưa cho mấy ẻm mấy cái bao thư và nói “donate đi mấy cưng” . Lúc mở tiền ra đếm, trung bình 1 đứa donate 1.53 đô.
+Trong một thí nghiệp khác, 38 em sinh viên tham gia thí nghiệm được trả 5 đô cho việc tham gia. Sau đó, người ta hỏi mấy sinh viên “Nếu các em donate(ủng hộ) tiền này cho từ thiện, mấy em sẽ cho nhiêu? ”. Sinh viên hồ hởi trả lời “em cho 2 đô rưỡi luôn, tiền này dù sao cũng miễn phí mà, em rất thích được làm từ thiện á mấy thầy ơi. Nhưng mà tụi kia thì em không nghĩ nó cho nhiều vậy đâu, cao lắm chắc 1 đồng 8 thôi à”. Sau đó, người ta đưa cho mấy đứa đó mấy cái bao thư và nói “donate đi mấy cưng” . Lúc mở tiền ra đếm, trung bình 1 đứa donate 1.53 đô.
 
-Là sao? Là con người đánh giá xã hội khá chính xác. Đám này kẹo lắm. Đúng. Tụi nó 0 cho nhiều tiền đâu. Đúng luôn. E thì khác. Khác cái lồng :)))) e cũng là tụi nó thôi :))) E cũng y chang như tụi nó à. Chúg ta luôn đánh giá chúng ta coa hơn thực tế. Các bạn không tốt đến vậy đâu.
+Là sao? Là con người đánh giá xã hội khá chính xác. Đám này kẹo lắm. Đúng. Tụi nó không cho nhiều tiền đâu. Đúng luôn. Em thì khác. Khác cái lồng :)))) e cũng là tụi nó thôi :))) Em cũng y chang như tụi nó à. Chúng ta luôn đánh giá chúng ta cao hơn thực tế. Các bạn không tốt đến vậy đâu.
 
-Mà không cần phải thí nghiệm gì hết. Tui hay để cái donate ở đây nè. Nhưng như clip Hiệu ứn đám đông tui làm á, ai cũng nghĩ, có người donate rồi, mình cần gì donate, mình cảm ơn là đc rồi hahahaha.
+Mà không cần phải thí nghiệm gì hết. Tui hay để cái donate ở đây nè. Nhưng như clip Hiệu ứng đám đông tui làm á, ai cũng nghĩ, có người donate rồi, mình cần gì donate, mình cảm ơn là đc rồi hahahaha.
+
+<p><iframe src="https://www.youtube.com/embed/sgLDDEGHawk" frameborder="0" allowfullscreen></iframe></p>
 
 2\. Bạn luôn nghĩ mình đẹp hơn thực tế
 
