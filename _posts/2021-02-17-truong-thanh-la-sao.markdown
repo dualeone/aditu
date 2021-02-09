@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trưởng thành là sao?
-date: 2021-02-07 12:01:35 +0000
+date: 2021-02-07T12:01:35.000+00:00
 image: "/images/truongthanhlasao.jpg"
 tags:
 - Haynensharengay
@@ -123,7 +123,7 @@ Khoe tiền khoe bạc người ta có thể không ưa mình. Nhưng người t
 
 Cách hay nhất để khoe kiến thức, đó là mở kênh youtube. Hoặc subscribe donate kênh anh Leo, xong ảnh có clip mới thì share, viết vài dòng nói hay lắm.
 
-Đừng khoe mày vó biết này hông mày có biết kia hông.
+Đừng khoe mày có biết này hông mày có biết kia hông.
 
 > Khi nào người ta hỏi, hãy nói. Đừng nói khi người ta không hỏi
 
