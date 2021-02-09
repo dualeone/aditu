@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bạn có ngu như bạn tưởng ?
-date: 2021-02-09 12:01:35 +0000
+date: 2021-02-09
 ---
 
 # **Mất tiền đau bao lâu là đủ?**
