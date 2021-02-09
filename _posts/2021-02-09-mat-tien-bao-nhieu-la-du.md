@@ -13,11 +13,13 @@ Ngày còn bé, nhà mình rất nghèo. Gia đình có 4 người, nhưng toàn
 
 _Nên tiền của mình rất eo hẹp. Nói KHÔNG CÓ ĐỒNG XU NÀO thì đúng hơn. Cho đến sau khi tốt nghiệp đại học, đi làm mấy năm, mình vẫn còn biết rõ trong túi mình có bao nhiêu tiền đến từng đồng tiền lẻ một. Túi trái có 25.500 đồng. Túi phải có 7.500 đồng. Sau đít, trong bóp, KHÔNG CÓ MỘT ĐỒNG CẮC!_
 
+![](/images/vi-tien.jpg)
+
 Điều này dẫn tới tình mình khá keo kiệt. Mình mất rất nhiều bạn cũng vì sự keo kiệt này, vì bạn bè rủ đi chơi, đi ăn cá viên chiên, uống li nước sâm, mình thường từ chối. Vì không có tiền. Qua mỗi cấp học, mình hầu như không còn giữ liên lạc đc với ai, và cũng vì không ai muốn giữ liên lạc với mình.
 
-> Nhưng, khi mất tiền, mình lại rất bình thản. Không đau đớn, không tiếc rẻ. Ba mẹ mình thì rất hay tiếc của, xuýt xoa khi lỡ tay làm mất tiền dù ít dù nhỏ. Ít thì tiếc một bữa. Nhiều thì đau cả tháng.
+> Nhưng khi mất tiền, mình lại rất bình thản. Không đau đớn, không tiếc rẻ. Ba mẹ mình thì rất hay tiếc của, suýt xoa khi lỡ tay làm mất tiền dù ít dù nhỏ. Ít thì tiếc một bữa. Nhiều thì đau cả tháng.
 
-Mình thì không. Sau khi mất tiền, dù tiền lớn hay tiền nhỏ, mình đều không tốn nhiều thời gian để quên nó. Ở cái thời mà 1 dĩa cơm ăn no nê giá 15 ngàn, mình đã từng mất 100 ngàn mà mặt không biến sắc. Mẹ mình nghe mất thì xót, cứ tiếc hùi hụi nói đi nói lại hoài cả tháng. Mình thì qua hôm sau đã không còn nhớ tới nó nữa.
+Mình thì cảm thấy không sao cả. Sau khi mất tiền, dù tiền lớn hay tiền nhỏ, mình đều không tốn nhiều thời gian để quên nó. Ở cái thời mà 1 dĩa cơm ăn no nê giá 15 ngàn, mình đã từng mất 100 ngàn mà mặt không biến sắc. Mẹ mình nghe mất thì xót, cứ tiếc hùi hụi nói đi nói lại hoài cả tháng. Mình thì qua hôm sau đã không còn nhớ tới nó nữa.
 
 > Vì mình luôn nghĩ, có tiếc thì tiền cũng đâu có xuất hiện lại? Mất 10 ngàn tiếc 10 phút, mất 100 ngàn tiếc 10 ngày xong thì cũng đâu có ai xuất hiện mà nói “con đã tiếc đủ sở hụi, đây là 100 ngàn đã mất của con, be careful next time con nhé” Vậy tiếc làm gì cho mệt đầu?
 
