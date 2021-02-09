@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bạn có ngu như bạn tưởng ?
+title: Mất tiền đau bao lâu là đủ?
 date: 2021-02-09
 ---
 
