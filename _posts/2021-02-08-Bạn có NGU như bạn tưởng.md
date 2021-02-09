@@ -1,7 +1,7 @@
 ---
 
 ---
-Bạn có thể vừa đọc bài viết vừa xem clip nhé. Mình để ngay đây luôn nè.
+Mấy bnaj có thể vừa đọc bài viết vừa xem clip nhé. Tui để ngay đây luôn nè.
 
 <p><iframe src="https://www.youtube.com/embed/X0AoaItugvw" frameborder="0" allowfullscreen></iframe></p>
 
