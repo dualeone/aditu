@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bạn có ngu như bạn tưởng ?
-image: "/images/bankhongngu.jpg"
+image: "/images/8-loai-thong-minh.jpg"
 date: 2021-02-08T12:01:35.000+00:00
 tags:
 - Haynensharengay
