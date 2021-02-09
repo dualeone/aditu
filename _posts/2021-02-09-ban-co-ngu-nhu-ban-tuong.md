@@ -1,4 +1,11 @@
 ---
+layout: post
+title: Bạn không ngu như bạn tưởng ?
+date: 2021-02-08 12:01:35 +0000
+tags:
+- Haynensharengay
+- KienThucNe
+- TamLyNe
 
 ---
 Mấy bnaj có thể vừa đọc bài viết vừa xem clip nhé. Tui để ngay đây luôn nè.
