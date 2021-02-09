@@ -15,7 +15,7 @@ _Nên tiền của mình rất eo hẹp. Nói KHÔNG CÓ ĐỒNG XU NÀO thì đ
 
 Điều này dẫn tới tình mình khá keo kiệt. Mình mất rất nhiều bạn cũng vì sự keo kiệt này, vì bạn bè rủ đi chơi, đi ăn cá viên chiên, uống li nước sâm, mình thường từ chối. Vì không có tiền. Qua mỗi cấp học, mình hầu như không còn giữ liên lạc đc với ai, và cũng vì không ai muốn giữ liên lạc với mình.
 
-> Nhưng, khi mất tiền, mình lại rất bình thản. Không đau đớn, không tiếc rẻ. Ba mẹ mình thì rất hay tiếc của, xuýt xoa khi lỡ tay làm mất tiền dù ít dù nhỏ. Ít thì tiếc 1 bữa. Nhiều thì đau cả tháng.
+> Nhưng, khi mất tiền, mình lại rất bình thản. Không đau đớn, không tiếc rẻ. Ba mẹ mình thì rất hay tiếc của, xuýt xoa khi lỡ tay làm mất tiền dù ít dù nhỏ. Ít thì tiếc một bữa. Nhiều thì đau cả tháng.
 
 Mình thì không. Sau khi mất tiền, dù tiền lớn hay tiền nhỏ, mình đều không tốn nhiều thời gian để quên nó. Ở cái thời mà 1 dĩa cơm ăn no nê giá 15 ngàn, mình đã từng mất 100 ngàn mà mặt không biến sắc. Mẹ mình nghe mất thì xót, cứ tiếc hùi hụi nói đi nói lại hoài cả tháng. Mình thì qua hôm sau đã không còn nhớ tới nó nữa.
 
