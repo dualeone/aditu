@@ -3,9 +3,9 @@
 ---
 <p><iframe src="https://www.youtube.com/embed/HQKTYUrfti4" frameborder="0" allowfullscreen></iframe></p>
 
-### Những cách chúng ta tự đánh giá cao bản thân hơn thực tế
+# Những cách chúng ta tự đánh giá cao bản thân hơn thực tế
 
-Bạn đã bao giờ ngồi kế 1 đứa hôi nách? Bạn có bao giờ tự hỏi ủa sao hôi dữ vậy mà nó 0 biết, bộ 0 ai nói cho nó nghe à? Chẳng lẽ nó 0 thấy 0 ai muốn ngồi kế nó, cứ ngồi xíu là người ta đứng dậy đổi chỗ? Tại sao người ta mới tới gần là biết nó hôi nách rồi, mà nó sống cả đời 0 hề nhận ra đc điều giản dị đó?
+Bạn đã bao giờ ngồi kế 1 đứa hôi nách? Bạn có bao giờ tự hỏi ủa sao hôi dữ vậy mà nó không biết, bộ không ai nói cho nó nghe à? Chẳng lẽ nó không thấy không ai muốn ngồi kế nó, cứ ngồi xíu là người ta đứng dậy đổi chỗ? Tại sao người ta mới tới gần là biết nó hôi nách rồi, mà nó sống cả đời không hề nhận ra đc điều giản dị đó?
 
 Theo các nghiên cứu khoa học, thật ra, chúng ta chính là thằng hôi nách đó. Nói theo nghĩa bóng là vậy. Còn nghĩa đen, nghĩa là chúng ta 0 biết mình dở cái gì, nhưng lại luôn có khuynh hướng ph1ong đại những cái tốt dẹp của mình lên. Và đó chính là chủ đề của clip hôm nay. Bạn luôn đánh giá coa bạn hơn bạn nghĩ.
 
@@ -15,7 +15,7 @@ Tưởng tượng nếu ngày mai đột nhiên có người cần bạn giúp �
 
 Bây giờ chia đôi số đó đi. Đó là sồ tiền thực tế bạn sẽ bỏ ra khi chuyện giả tưởng kia đột nhiên thành hiện thực.
 
-Năm 2001, David Dunning, 1 giáo sư tâm lý học ở đại học Cornell đã thực hiện 1 chuỗi các thực nghiệm về cách người ta tự đánh giá bản thân và đánh giá người khác. Ở thí nghiệm đầu tiên, 250 sinh viên đc hỏi là em có tính mua hoa thuỷ tiên ủng hộ Hiệp hội chống ung thư Hoa Kỳ hông? 80% trả lời đồng thanh vang trời dạ cóooooo. Các nhà khoa học hài lòng, con người tốt quá mà. Xong người ta hỏi tiếp “theo mấy em thì bao nhiêu người sẽ mua hoa ủng hộ?” Mấy em sinh viên nhăn trán suy nghĩ rồi nói, chắc cỡ 50 mấy% à mấy thầy ơi, tụi nó không có tốt “như em đâu” nháy nháy mắt, khúc như e là phải tự hiểu nha.
+Năm 2001, David Dunning, 1 giáo sư tâm lý học ở đại học Cornell đã thực hiện 1 chuỗi các thực nghiệm về cách người ta tự đánh giá bản thân và đánh giá người khác. Ở thí nghiệm đầu tiên, 250 sinh viên đc hỏi là em có tính mua hoa thuỷ tiên ủng hộ Hiệp hội chống ung thư Hoa Kỳ hông? 80% trả lời đồng thanh vang trời "dạ có!!!!!!!!". Các nhà khoa học hài lòng, con người tốt quá mà. Xong người ta hỏi tiếp “theo mấy em thì bao nhiêu người sẽ mua hoa ủng hộ?” Mấy em sinh viên nhăn trán suy nghĩ rồi nói, chắc cỡ 50 mấy% à mấy thầy ơi, tụi nó không có tốt “như em đâu” nháy nháy mắt, khúc như e là phải tự hiểu nha.
 
 5 tuần sau, Ngày ủng hộ hiệp hội chống ung thư đến và đi. Người ta thống kê, chỉ có 43% sinh viên đã mua hoa.
 
