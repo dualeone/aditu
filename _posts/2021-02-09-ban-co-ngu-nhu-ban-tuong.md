@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bạn có ngu như bạn tưởng ?
+image: "/images/8-loai-thong-minh.jpg"
 date: 2021-02-08 12:01:35 +0000
 tags:
 - Haynensharengay

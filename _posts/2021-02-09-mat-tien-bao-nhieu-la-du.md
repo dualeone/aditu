@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mất tiền đau bao lâu là đủ?
+image: "/images/mat-tien.jpg"
 date: 2021-02-09
 ---
 
