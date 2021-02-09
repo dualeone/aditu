@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bạn không ngu như bạn tưởng ?
+title: Bạn có ngu như bạn tưởng ?
 date: 2021-02-08 12:01:35 +0000
 tags:
 - Haynensharengay
