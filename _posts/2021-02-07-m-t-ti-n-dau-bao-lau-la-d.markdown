@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Mất tiền đau bao lâu là đủ?
+date: 2021-02-07T12:01:35.000+00:00
 image: "/images/mat-tien.jpg"
-date: 2021-02-09
+tags:
+- KienThucNe
+- TamLyNe
+- LonLenNao
 
 ---
 # **Mất tiền đau bao lâu là đủ?**
