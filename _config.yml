@@ -1,24 +1,24 @@
 #-------------------------------
 # General Site Settings
-title: Dualeone
+title: Lớn lên nào
 logo: # You can add own logo. For example '/images/logo.png'.
 description:
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://dualeone.com/" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://lonlennao.com/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Dualeone
+  name: Dưa Leo
   avatar: '/images/avatar.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Dualeone
-  description: Thoughts, stories and ideas.
+  title: Lonlennao
+  description: Support the younger generation to deal with mental health, stress, and unrealistic expectation
   image: '/images/avatar.jpg'
 
 
