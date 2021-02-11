@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Những cách chúng ta tự đánh giá cao bản thân hơn thực tế
-date: 2021-02-09 22:00:00 +0700
+date: 2021-02-09T22:00:00.000+07:00
 image: "/images/daoduc.jpg"
 tags:
 - Haynensharengay
@@ -13,7 +13,7 @@ tags:
 
 ## Những cách chúng ta tự đánh giá cao bản thân hơn thực tế
 
-Bạn đã bao giờ ngồi kế 1 đứa hôi nách? Bạn có bao giờ tự hỏi ủa sao hôi dữ vậy mà nó không biết, không có ai nói cho nó nghe sao? Chẳng lẽ nó không tự cảm thấy không ai muốn ngồi kế nó, cứ ngồi xíu là người ta đứng dậy đổi chỗ? Tại sao người ta mới tới gần là biết nó hôi nách rồi, mà nó sống cả đời không hề nhận ra đc điều "giản dị" đó?
+Bạn đã bao giờ ngồi kế 1 đứa hôi nách? Bạn có bao giờ tự hỏi "Ủa sao hôi dữ vậy mà nó không biết, không có ai nói cho nó nghe sao? Chẳng lẽ nó không tự cảm thấy không ai muốn ngồi kế nó, cứ ngồi xíu là người ta đứng dậy đổi chỗ? Tại sao người ta mới tới gần là biết nó hôi nách rồi, mà nó sống cả đời không hề nhận ra đc điều "giản dị" đó?
 
 Theo các nghiên cứu khoa học, thật ra, chúng ta chính là thằng hôi nách đó. Nói theo nghĩa bóng là vậy. Còn nghĩa đen, nghĩa là chúng ta không biết mình dở cái gì, nhưng lại luôn có khuynh hướng phóng đại những cái tốt dẹp của mình lên. Và đó chính là chủ đề của clip và bài viết hôm nay. Bạn luôn thực sự đánh giá cao bản thân của bạn hơn bạn nghĩ.
 
@@ -47,7 +47,7 @@ Mà không cần phải thí nghiệm gì hết. Tui hay để cái donate ở d
 
 Nhưng như clip Hiệu ứng đám đông tui làm á, ai cũng nghĩ, có người donate rồi, mình cần gì donate, mình cảm ơn là đc rồi "hahahaha :(".
 
-<p><iframe src="[https://www.youtube.com/embed/sgLDDEGHawk](https://www.youtube.com/embed/sgLDDEGHawk "https://www.youtube.com/embed/sgLDDEGHawk")" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/sgLDDEGHawk" frameborder="0" allowfullscreen></iframe></p>
 
 ### 2. Bạn luôn nghĩ mình đẹp hơn thực tế
 
@@ -65,7 +65,7 @@ Người ta chọn tấm đã sửa đẹp nhất :)))))
 
 Trừ anh Leo. Ảnh luôn đẹp trai, mãi mãi!! Cho nên hãy coi lại cái clip Những cuộc đào thoát từ XHCN sang tư bản đi, coi sẽ thấy, anh này vừa đẹp trai vừa thông kinh sử nữa!!
 
-<p><iframe src="[https://www.youtube.com/embed/AtMnv5gS6VQ](https://www.youtube.com/embed/AtMnv5gS6VQ "https://www.youtube.com/embed/AtMnv5gS6VQ")" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/AtMnv5gS6VQ" frameborder="0" allowfullscreen></iframe></p>
 
 ### 3. Bạn luôn nghĩ rằng vấn đề của mình là tệ nhất , còn người khác thì "muỗi"!!
 
@@ -103,7 +103,7 @@ Có 1 cách khác để nhìn về vấn đề này. Để ý đi, mình hay ph�
 
 Nói chung, ý chí là 1 loại siêu năng lực. Không phải ai cũng có. Coi clip đi. Ngoài anh Leo ra thì ít lắm hahaha
 
-Cho nên, bạn đừng nghĩ rằng mình tốt, mình giỏi, nhưng đời mình tệ quá. Ai cũng như bạn thôi. Cuộc đời của bạn, là do những gì bạn làm và những gì bạn không làm. Bạn thấy anh leo làm clip hay, nhưng ảnh kêu subscribe, kêu donate thì bạn hãy donate, chứ đừng nghĩ “chắc ai đó sẽ làm. Bạn làm đi. Hen.
+Cho nên, bạn đừng nghĩ rằng mình tốt, mình giỏi, nhưng đời mình tệ quá. Ai cũng nghĩ như bạn thôi. Cuộc đời của bạn là do những gì bạn làm và những gì bạn không làm. Bạn thấy anh Leo làm clip hay, nhưng ảnh kêu subscribe, kêu donate thì bạn hãy donate, chứ đừng nghĩ “chắc ai đó sẽ làm" mà Bạn làm đi!!!
 
 ★ Để trân trọng việc Dưa Leo làm, hãy DONATE 💸 [https://www.patreon.com/dualeone](https://www.patreon.com/dualeone "https://www.patreon.com/dualeone")​
 
@@ -113,4 +113,4 @@ Cho nên, bạn đừng nghĩ rằng mình tốt, mình giỏi, nhưng đời m�
 
 💸 Paypal Dualeone@gmail.com
 
-💸Venmo HuyNguyenNe[Download File]( "Download File")![](/images/daoduc.jpg)
+💸Venmo HuyNguyenNe
