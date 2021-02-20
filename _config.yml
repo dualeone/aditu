@@ -18,8 +18,9 @@ author:
 # Hero Settings
 hero:
   title: Lonlennao
-  description: Support the younger generation to deal with mental health, stress, and unrealistic expectation
-  image: '/images/avatar.jpg'
+  # description: Support the younger generation to deal with mental health, stress, and unrealistic expectation
+  description: Cộng đồng chia sẻ tri thức giúp các bạn trẻ trưởng thành hơn
+  image: '/images/Lonlennao-main.jpg'
 
 
 #-------------------------------
